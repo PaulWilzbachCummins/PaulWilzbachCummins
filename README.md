@@ -7,6 +7,3 @@ Professionally, I am interested in applying data science and GIS in the areas of
 
 As a hobby, I also enjoy exploring the intersection of music, math, and computer/data science. 
 
-You can reach me at:
-paul.cummins12@ncf.edu
-
